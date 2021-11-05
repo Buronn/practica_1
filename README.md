@@ -4,7 +4,7 @@ _Bienvenido a Gamificacion API para el programa de atraccion de talentos en la U
 
 ## IMPORTANTE
 
-_Todas las peticiones correctas tienen el estado HTTP 200, el resto seran consideradas erroneas o inconsistentes._
+_Todas las peticiones correctas tienen el estado HTTP 200, el resto serán consideradas erroneas o inconsistentes._
 
 
 ## ESQUEMA
