@@ -13,7 +13,7 @@ _Todas las peticiones correctas tienen el estado HTTP 200, el resto serán consi
 
 ## Rutas
 
-_En el presente apartado se veran las rutas para poder obtener, ingresar, modificar o eliminar elementos de la base de datos._
+_En el presente apartado se verán las rutas para poder obtener, ingresar, modificar o eliminar elementos de la base de datos._
 
 ### /
 
